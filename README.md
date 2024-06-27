@@ -7,6 +7,8 @@
 
 <img src="https://github.com/oracleyu01/R_class/blob/main/R%20%EC%88%98%EC%97%852.png" width="600" height="400">
 
+<img src="https://github.com/Kim-Jun-Hee/k_juni_R/blob/main/001%20(1).png" width="600" height="400">
+
 &nbsp;
 
 ## 수업 자료( ☀️ 2024년 6월 26일 updated)
