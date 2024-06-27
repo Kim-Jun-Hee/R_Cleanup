@@ -10,7 +10,7 @@
 <img src="https://github.com/Kim-Jun-Hee/k_juni_R/blob/main/001%20(1).png" width="600" height="400">
 
 &nbsp;
-https://github.com/Kim-Jun-Hee/k_juni_R/blob/main/R%20%EC%88%98%EC%97%85%20%EB%85%B8%ED%8A%B8_%EA%B9%83%ED%97%88%EB%B8%8C.egg
+
 ## 수업 자료( ☀️ 2024년 6월 26일 updated)
 
 
